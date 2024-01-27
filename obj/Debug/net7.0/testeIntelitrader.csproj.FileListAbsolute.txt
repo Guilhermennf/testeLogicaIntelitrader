@@ -1,0 +1,14 @@
+D:\testeIntelitrader\obj\Debug\net7.0\testeIntelitrader.GeneratedMSBuildEditorConfig.editorconfig
+D:\testeIntelitrader\obj\Debug\net7.0\testeIntelitrader.AssemblyInfoInputs.cache
+D:\testeIntelitrader\obj\Debug\net7.0\testeIntelitrader.AssemblyInfo.cs
+D:\testeIntelitrader\obj\Debug\net7.0\testeIntelitrader.csproj.CoreCompileInputs.cache
+D:\testeIntelitrader\bin\Debug\net7.0\testeIntelitrader.exe
+D:\testeIntelitrader\bin\Debug\net7.0\testeIntelitrader.deps.json
+D:\testeIntelitrader\bin\Debug\net7.0\testeIntelitrader.runtimeconfig.json
+D:\testeIntelitrader\bin\Debug\net7.0\testeIntelitrader.dll
+D:\testeIntelitrader\bin\Debug\net7.0\testeIntelitrader.pdb
+D:\testeIntelitrader\obj\Debug\net7.0\testeIntelitrader.dll
+D:\testeIntelitrader\obj\Debug\net7.0\refint\testeIntelitrader.dll
+D:\testeIntelitrader\obj\Debug\net7.0\testeIntelitrader.pdb
+D:\testeIntelitrader\obj\Debug\net7.0\testeIntelitrader.genruntimeconfig.cache
+D:\testeIntelitrader\obj\Debug\net7.0\ref\testeIntelitrader.dll
